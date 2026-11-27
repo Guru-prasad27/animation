@@ -310,5 +310,3 @@ public class MainActivity extends AppCompatActivity {
 ## RESULT
 Thus,the experiment Implementation of Animation application using android studio executed successfully.
 
-
-## RESULT
